@@ -1,1 +1,12 @@
-One day 
+One day four psychologists decided to learn to code, but they didn't know where to start.
+They were stuck for several days before remembering the assignment was due next week.
+One day, while Cindy was shopping, inspiration struck her.
+She needed to get one pair of light wash jeans but ordered three due to indecisiveness.
+She tried them on one by one. The first pair was too big, the second was too loose, but the third was just right.
+Much like Goldilocks, she discovered that she needed to feel just right before settling in to do the assignment.
+Wearing the third pair of jeans, she sat down at her computer and opened GitHub. "This is my moment," she said to herself.
+She opened her repository, clicked on the correct branch, ignored the fact that she didn't completely understand forks, and began writing.
+"fork." she wrote. 
+but with a lemon square by her side, she opened what she really wanted:
+Sims.
+(Whatever happened to the other three psychologists?)

@@ -5,3 +5,4 @@ She needed to get one pair of light wash jeans but ordered three due to indecisi
 She tried them on one by one. The first pair was too big, the second was too loose, but the third was just right.
 Much like Goldilocks, she discovered that she needed to feel just right before settling in to do the assignment.
 Wearing the third pair of jeans, she sat down at her computer and opened GitHub. "This is my moment," she said to herself.
+She opened her repository, clicked on the correct branch, ignored the fact that she didn't completely understand forks, and began writing.
